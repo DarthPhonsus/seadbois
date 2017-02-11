@@ -1,11 +1,11 @@
 # Table of Contents:
 1. [Registration Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#i-registration-rules)
-2. [Team Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#ii-team-rules)
-3. [Team Captains/Coordinators](https://github.com/phonsoswag/seadbois/blob/master/README.md#iii-team-captains/coordinators)
-4. [Tournament Format](https://github.com/phonsoswag/seadbois/blob/master/README.md#iv-tournament-format)
-5. [Scheduling] (https://github.com/phonsoswag/seadbois/blob/master/README.md#v-scheduling)
+2. [Player Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#ii-player-rules)
+3. [Tournament Format](https://github.com/phonsoswag/seadbois/blob/master/README.md#iii-tournament-format)
+4. [Team Captains](https://github.com/phonsoswag/seadbois/blob/master/README.md#iv-team-captains)
+5. [Scheduling](https://github.com/phonsoswag/seadbois/blob/master/README.md#v-scheduling)
 6. [In-Game and Lobby Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#vi-in--game-and-lobby-rules)
-7. [Community Conduct](https://github.com/phonsoswag/seadbois/blob/master/README.md#vii-community-condcut)
+7. [Community Conduct](https://github.com/phonsoswag/seadbois/blob/master/README.md#vii-community-conduct)
 
 # I. Registration Rules
 * In order to be able to participate in this tournament, all team members must like our facebook page and share our tourney facebook post before their google form registration is considred and their slot is reserved and secured. Failure to do so will forfeit your slot in the SeaD: Origins Cup.
@@ -30,13 +30,13 @@ The Team Captain is in charge of:
 * Receive information from SeaD Admins and disseminate to their teammates.
 * Make sure their team is informed of rules, so they can behave accordingly in-lobby and in-game.
 
-# IV. Scheduling
+# V. Scheduling
 
 * SeaD Admins will be in charge of scheduling and coordinating with all team captains. 
 * All games should be played as soon as possible once the opposing team is ready. 
 * Teams will only have a 10 minute grace period between their serieses. Unless they're waiting for their opponents to finish their respective tournament matches. 
 
-# VI. Lobbies & In-Game Rules
+# VI. In-game and Lobby Rules
 * If an admin is unavailable, one of the team captains will be assigned to create their respective lobby.
 * No coaches or non-observers are allowed in the lobby.
 * Only exception is if an admin is hosting a ticketed lobby for you.
