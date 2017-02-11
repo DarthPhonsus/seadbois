@@ -1,11 +1,11 @@
 # Table of Contents:
 1. [Registration Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#i-registration-rules)
-2. Team Rules
-3. Team Captains/Coordinators
-4. Tournament Format
-5. Scheduling 
-6. In-Game and Lobby Rules
-7. Community Conduct
+2. [Team Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#ii-team-rules)
+3. [Team Captains/Coordinators](https://github.com/phonsoswag/seadbois/blob/master/README.md#iii-team-captains/coordinators)
+4. [Tournament Format](https://github.com/phonsoswag/seadbois/blob/master/README.md#iv-tournament-format)
+5. [Scheduling] (https://github.com/phonsoswag/seadbois/blob/master/README.md#v-scheduling)
+6. [In-Game and Lobby Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#vi-in--game-and-lobby-rules)
+7. [Community Conduct](https://github.com/phonsoswag/seadbois/blob/master/README.md#vii-community-condcut)
 
 # I. Registration Rules
 * In order to be able to participate in this tournament, all team members must like our facebook page and share our tourney facebook post before their google form registration is considred and their slot is reserved and secured. Failure to do so will forfeit your slot in the SeaD: Origins Cup.
