@@ -4,7 +4,7 @@
 3. [Tournament Format](https://github.com/phonsoswag/seadbois/blob/master/README.md#iii-tournament-format)
 4. [Team Captains](https://github.com/phonsoswag/seadbois/blob/master/README.md#iv-team-captains)
 5. [Scheduling](https://github.com/phonsoswag/seadbois/blob/master/README.md#v-scheduling)
-6. [In-Game and Lobby Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#vi-in--game-and-lobby-rules)
+6. [InGame and Lobby Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#vi-ingame-and-lobby-rules)
 7. [Community Conduct](https://github.com/phonsoswag/seadbois/blob/master/README.md#vii-community-conduct)
 
 # I. Registration Rules
@@ -23,7 +23,7 @@
 * Games should be played with the official Tournament Ticket on the Dota 2 Client. If an in game ticket is unavailable, Both team captains should report to the respective admin once the series concludes. 
 * Team captains that fail to report truthfully to their admins will be banned and DQ'ed for all future SeaD events. Failure to provide screenshots within a timely manner, to admins, will result in a series being ruled as a forfeit.
 
-# IV Team Coordinators/Captains
+# IV Team Captains
 The Team Captain is in charge of:  
 * Communicating with the admins 
 * Checking in one hour before the start of the tourney. To make sure your team is active and ready before the start of the tournament. This will be done on the discord server.
@@ -36,7 +36,7 @@ The Team Captain is in charge of:
 * All games should be played as soon as possible once the opposing team is ready. 
 * Teams will only have a 10 minute grace period between their serieses. Unless they're waiting for their opponents to finish their respective tournament matches. 
 
-# VI. In-game and Lobby Rules
+# VI. Ingame and Lobby Rules
 * If an admin is unavailable, one of the team captains will be assigned to create their respective lobby.
 * No coaches or non-observers are allowed in the lobby.
 * Only exception is if an admin is hosting a ticketed lobby for you.
