@@ -1,11 +1,11 @@
 # I. Registration Rules
-  1. In order to be able to participate in this tournament, all team members must like our facebook page and share our tourney facebook post before their google form registration is considred and their slot is reserved and secured. Failure to do so will forfeit your slot in the SeaD: Origins Cup.
-2. Registration deadline is on March 4, 2017, 11:59 PM SGT. After the deadline, no new teams will be accepted into the SeaD: Origins Cup for the first part of the three part tourney series.
-3. You can only be registered to one team at a time and only play on one team throughout the tourney. 
+* In order to be able to participate in this tournament, all team members must like our facebook page and share our tourney facebook post before their google form registration is considred and their slot is reserved and secured. Failure to do so will forfeit your slot in the SeaD: Origins Cup.
+* Registration deadline is on March 4, 2017, 11:59 PM SGT. After the deadline, no new teams will be accepted into the SeaD: Origins Cup for the first part of the three part tourney series.
+* You can only be registered to one team at a time and only play on one team throughout the tourney. 
 
 # II. Player Rules
-1. All team captains (or designated team coordinator)  must be registered on the community Discord server, using their registred IGN (Ingame name) so other players and admins can easily identify and contact them.
-2. Stand-ins are allowed, as long as at least one member from the original roster is present. Teams should inform the admins if their team captain is not available so we the admins will know who to communicate and coordinate with. 
+* All team captains (or designated team coordinator)  must be registered on the community Discord server, using their registred IGN (Ingame name) so other players and admins can easily identify and contact them.
+* Stand-ins are allowed, as long as at least one member from the original roster is present. Teams should inform the admins if their team captain is not available so we the admins will know who to communicate and coordinate with. 
 
 # III. Tournament Format
 * The tournament will be a 32-team Double Elimination Bracket with BO3 Finals, all rounds prior to that are BO1
