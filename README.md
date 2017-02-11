@@ -1,3 +1,12 @@
+# Table of Contents:
+1. [Registration Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#i-registration-rules)
+2. Team Rules
+3. Team Captains/Coordinators
+4. Tournament Format
+5. Scheduling 
+6. In-Game and Lobby Rules
+7. Community Conduct
+
 # I. Registration Rules
 * In order to be able to participate in this tournament, all team members must like our facebook page and share our tourney facebook post before their google form registration is considred and their slot is reserved and secured. Failure to do so will forfeit your slot in the SeaD: Origins Cup.
 * Registration deadline is on March 4, 2017, 11:59 PM SGT. After the deadline, no new teams will be accepted into the SeaD: Origins Cup for the first part of the three part tourney series.
