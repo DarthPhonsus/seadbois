@@ -6,6 +6,7 @@
 5. [Scheduling](https://github.com/phonsoswag/seadbois/blob/master/README.md#v-scheduling)
 6. [InGame and Lobby Rules](https://github.com/phonsoswag/seadbois/blob/master/README.md#vi-ingame-and-lobby-rules)
 7. [Community Conduct](https://github.com/phonsoswag/seadbois/blob/master/README.md#vii-community-conduct)
+8. [Payment](https://github.com/phonsoswag/seadbois/blob/master/README.md#viii-payment)
 
 # I. Registration Rules
 * In order to be able to participate in this tournament, all team members must like our facebook page and share our tourney facebook post before their google form registration is considred and their slot is reserved and secured. Failure to do so will forfeit your slot in the SeaD: Origins Cup.
@@ -64,4 +65,10 @@ The Team Captain is in charge of:
 * Any disputes or complaints about rules, punishments, or conduct should be brought up to admins via the help page or via private message
 * Disputes should be substantiated by screenshots, chatlogs, game logs, and/or any other relevant evidence
 
+# VIII. Payment
+
+* Prize Money will be paid out either on PayPal, Steam Credits, or Meet Up ONLY
+* If PayPal, the captain of the winning team will be asked to send his or his teams PayPal Accounts to the admins. All prize money will be sent to the team’s respective accounts within a week.
+* If Steam Credits, the captain of the winning team will be asked to send his Steam ID or his team's steam IDs to the admins. All steam credits will be gifted to the team’s respective accounts within a week. 
+* Meet ups are only available if you’re from the Philippines and only in Quezon City or Makati City. Team captains of the winning teams will be in charge of communicating with admins to discuss place and time of meetups. All meetups will be done within three weeks of the tourney. (Just in case for scheduling conflicts)
 
